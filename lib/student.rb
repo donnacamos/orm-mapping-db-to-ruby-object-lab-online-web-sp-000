@@ -27,6 +27,8 @@ class Student
     WHERE name = ? 
     LIMIT 1 
     SQL 
+    
+    
   end
   
   def save
